@@ -2,9 +2,10 @@
 
 **Table of Contents**
 
-- [Introduction][Introduction]
-- [Preparation][Preparation]
-- [Implement Authentication Handler][Implement Authentication Handler]
+- [Introduction](#introduction)
+- [Preparation](#Preparation)
+- [Implement Authentication Handler](#implement-authentication-handler)
+- [Test](#test)
 
 # Introduction
 
@@ -132,7 +133,7 @@ app.MapControllers();
 
 app.Run();
 ```
-# Create a Controller Class to Test if the Authorization Handler Works
+# Test
 
 ## create Controller
 ```C#
